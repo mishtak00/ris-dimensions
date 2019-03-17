@@ -23,7 +23,7 @@ def initialize_session():
 
     login = {
         'username': 'gmishtakAPI@u.rochester.edu',
-        'password': 'Kw8Vef7HnCqptj'
+        'password': ''
     }
 
     print('\nInitializing session...\n')
